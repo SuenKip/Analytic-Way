@@ -29,3 +29,5 @@ hour_key — час совершения поездки (в системном �
 distance_km — дистанция поездки;
 offer_class_group — класс поездки (Economy, Comfort, Premium, Delivery);
 driver_response — статус поездки (1 — поездка совершена; 0 — отмена);
+
+# Ссылка на google docs - https://docs.google.com/spreadsheets/d/1RdbQN30XvhykQanrMLh4GNSuo0qu0NebyiK3keVR1Ak/edit?usp=sharing
